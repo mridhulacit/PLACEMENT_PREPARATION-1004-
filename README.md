@@ -1,2 +1,2 @@
 # PLACEMENT_PREPARATION-1004-
-This repository of mine cosists of my milestone preparation for placement.
+This repository of mine consists of every milestone steps on my preparation for placement.
