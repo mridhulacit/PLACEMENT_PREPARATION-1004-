@@ -27,3 +27,13 @@ The system allocates memory by seeing the above function definition.
 INITIALIZATION:
          Initialization is the specification of the initial value to be stored in an object, 
 which is not necessarily the same as the first time you explicitly assign a value to it.
+//#include is macro preprocessor where the appropriate library file is included
+// library files can bementioned in two formats angular brackets and quote version
+// angular bracket search for libraries in system path whereas quote version searches in user directory 
+// and system library directory. include can also have .c files. PREPROCESSING HAPPENS AS FIRST PHASE IN COMPILATION
+
+PRE-PROCCESSORS
+
+#include<stdio.h> - PREPROCESSOR DIRECTIVES
+we don't mention datatypes is because it deals with preprocessor and not compiler - only compiler checks datatypes for its execution.
+
